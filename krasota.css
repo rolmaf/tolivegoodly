@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#one {
+    background-image: url(https://images.pexels.com/photos/1405773/pexels-photo-1405773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#two {
+    background-image: url(https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: rgba(255, 127, 80, 0.89);
+}
+#three{
+    background-image: url(https://images.pexels.com/photos/194094/pexels-photo-194094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: rgba(0, 255, 255, 0.856);
+}
+#four{
+    background-image: url(https://images.pexels.com/photos/1141626/pexels-photo-1141626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: cornsilk;
+}
+#five{
+    background-image: url(https://images.pexels.com/photos/35196/water-plant-green-fine-layers.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: deeppink;
+}   
+#six{
+    background-image: url(https://images.pexels.com/photos/2555656/pexels-photo-2555656.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    color: gold;    
+}
+#seven{
+    background-image: url(https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: lightcoral;
+}
+#eight{
+    background-image: url(https://images.pexels.com/photos/1037999/pexels-photo-1037999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    color: darkslateblue;
+}
+.fon {
+    padding: 0 20px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-navbar {
+    width: 40px;
+    transition: 1s;
+}
+.logo-navbar:hover {
+    transition: 1s;
+    transform: rotate(360deg)
+}
+.navbar {
+    font-size: 12pt;
+}

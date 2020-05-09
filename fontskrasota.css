@@ -1,0 +1,14 @@
+#verh{
+    font-family: 'Dancing Script', cursive;
+    font-size: 500%;
+}
+#osnovaverh {
+    font-size: 350%;
+    font-family: 'Libre Baskerville', serif;
+}
+.all {
+    font-family: 'Dancing Script';
+    font-size: 700%;    
+}
+@media (max-width: 445px) {
+}
